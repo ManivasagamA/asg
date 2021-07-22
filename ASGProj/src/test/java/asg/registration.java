@@ -30,7 +30,7 @@ public class registration extends browser {
 	@Test
 	public void login() throws IOException, InterruptedException
 	{
-
+//hi mani
 /*driver.get("http://automationpractice.com/");
 driver.manage().window().maximize();*/		
 Authentication au=new Authentication(driver);
